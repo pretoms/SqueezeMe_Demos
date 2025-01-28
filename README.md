@@ -1,2 +1,2 @@
-# SqueezeMe_Demos
-Software for the CHI publication SqueezeMe
+# SqueezeMe_Software
+Software for the CHI publication SqueezeMe.
